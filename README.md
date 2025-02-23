@@ -18,6 +18,7 @@ The dataset consists of images of handwritten digits (0-9). The goal is to build
 1. **Data Preprocessing:** 
    - Normalizing pixel values.
    - Splitting the data into training and testing sets.
+     
 
 2. **Model Training:**
    - Implemented using `RandomForestClassifier` with `max_depth=128` and `n_estimators=256`.
